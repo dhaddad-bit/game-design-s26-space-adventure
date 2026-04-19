@@ -55,6 +55,11 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# Keep this explicit sandbox project tracked.
+!GameProgrammingSandbox.slnx
+!GameProgrammingSandbox/
+!GameProgrammingSandbox/*.csproj
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta

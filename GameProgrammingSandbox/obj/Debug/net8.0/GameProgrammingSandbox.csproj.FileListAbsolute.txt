@@ -1,0 +1,12 @@
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/bin/Debug/net8.0/GameProgrammingSandbox.deps.json
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/bin/Debug/net8.0/GameProgrammingSandbox.dll
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/bin/Debug/net8.0/GameProgrammingSandbox.pdb
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/obj/Debug/net8.0/GameProgrammingSandbox.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/obj/Debug/net8.0/GameProgrammingSandbox.AssemblyInfoInputs.cache
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/obj/Debug/net8.0/GameProgrammingSandbox.AssemblyInfo.cs
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/obj/Debug/net8.0/GameProgrammingSandbox.csproj.CoreCompileInputs.cache
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/obj/Debug/net8.0/GameProgrammingSandbox.sourcelink.json
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/obj/Debug/net8.0/GameProgrammingSandbox.dll
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/obj/Debug/net8.0/refint/GameProgrammingSandbox.dll
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/obj/Debug/net8.0/GameProgrammingSandbox.pdb
+/home/runner/work/game-design-s26-space-adventure/game-design-s26-space-adventure/GameProgrammingSandbox/obj/Debug/net8.0/ref/GameProgrammingSandbox.dll
