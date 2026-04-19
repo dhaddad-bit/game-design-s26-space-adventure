@@ -6,6 +6,7 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
+/[Bb]in/
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
@@ -54,6 +55,13 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+
+# Keep this explicit sandbox project tracked.
+!GameProgrammingSandbox.slnx
+!GameProgrammingSandbox/
+!GameProgrammingSandbox/*.csproj
+**/[Oo]bj/
+**/[Bb]in/
 
 # Unity3D generated meta files
 *.pidb.meta
