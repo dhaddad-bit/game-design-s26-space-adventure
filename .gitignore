@@ -6,6 +6,7 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
+/[Bb]in/
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
@@ -59,6 +60,8 @@ ExportedObj/
 !GameProgrammingSandbox.slnx
 !GameProgrammingSandbox/
 !GameProgrammingSandbox/*.csproj
+**/[Oo]bj/
+**/[Bb]in/
 
 # Unity3D generated meta files
 *.pidb.meta
